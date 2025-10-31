@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently work as CTO at own Startup<br>🌱 Doing Bachelor right now<br>⚡ Fullstack
+⚡ Fullstack
 
 
 # 💻 Tech Stack:
